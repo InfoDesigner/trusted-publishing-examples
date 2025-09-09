@@ -10,14 +10,6 @@ with uv. The release workflow can be found in
 matching configuration is set under
 `https://pypi.org/manage/project/<package-name>/settings/publishing/`:
 
-![Screenshot from PyPI.
-Manage current publishers.
-Publisher: GitHub.
-Details:
-Repository: astral-sh/trusted-publishing-examples
-Workflow: release.yml
-Environment name: release](data/trusted-publishing-config-pypi.png)
-
 You can find the published package at
 https://pypi.org/project/trusted-publishing-examples/.
 
